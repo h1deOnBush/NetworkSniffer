@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1562636829 source:d:\codeblocks\sniffer3\main.c
+	<stdio.h>
+	<pcap.h>
+	<malloc.h>
+	<time.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+	<sys/time.h>
+	"protocol.h"
+
+1562637341 d:\codeblocks\sniffer3\protocol.h
+
